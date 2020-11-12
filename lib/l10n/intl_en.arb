@@ -1,0 +1,15 @@
+{
+  "request_timeout":"Send timeout in connection with API server",
+  "ERR_CANCEL": "Request cancelled",
+  "CONNECT_TIMEOUT": "Connection request timeout",
+  "noInternetConnection": "No internet connection",
+   "unauthorisedRequest": "Unauthorised Request",
+  "requestNotFound":"Request not found",
+  "ERR409":"Error due to a conflict",
+  "ERR500":"Internal Server Error",
+  "ERR503":"Service unavailable",
+  "ERR_DEFAULT":"Received invalid status code:{code}",
+  "unexpectedError": "Unexpected error occurred",
+  "formatException": "Format response error",
+  "unableToProcess": "Unable to process the data"
+}

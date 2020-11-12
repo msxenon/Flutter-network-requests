@@ -1,0 +1,28 @@
+name: flutter_net_requests_handler
+description: Flutter app sample showing how to use network requests like a pro
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^3.0.10
+  meta: ^1.2.3
+  cupertino_icons: ^1.0.0
+  intl: ^0.16.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^1.10.4
+
+
+flutter:
+  uses-material-design: true
+flutter_intl:
+  enabled: true
