@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
-import 'package:flutter_net_requests_handler/models/api_response.dart';
-import 'package:flutter_net_requests_handler/models/post_model.dart';
+ import 'package:flutter_net_requests_handler/models/post_model.dart';
+import 'package:flutter_net_requests_handler/models/result_classes.dart';
 import 'package:flutter_net_requests_handler/network_services/network_exception.dart';
 import 'package:flutter_net_requests_handler/network_services/posts/dio_client.dart';
 
