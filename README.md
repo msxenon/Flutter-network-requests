@@ -7,3 +7,4 @@ Flutter app sample showing how to use network requests like a pro
 - [Api Service](/lib/network_services/posts/posts_service.dart)
 - [Simple UI Handling](/lib/main.dart#L80)
 
+[IDE Json to Dart Plugin](https://plugins.jetbrains.com/plugin/12562-jsontodart-json-to-dart-)
